@@ -1,4 +1,4 @@
-# Change Detection - MAICON 2022
+# Aerial-ChangeDetection - MAICON 2022
 
 항공 이미지 데이터를 활용한 건물 변화 탐지
 
