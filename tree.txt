@@ -1,0 +1,49 @@
+📦change_detection.pytorch
+ ┣ 📂change_detection_pytorch
+ ┣ 📂checkpoints
+ ┃ ┣ 📜model1.pth
+ ┃ ┣ 📜model2.pth
+ ┃ ┣ 📜model3.pth
+ ┃ ┣ 📜model4.pth
+ ┃ ┣ 📜model5.pth
+ ┃ ┗ 📜model6.pth
+ ┣ 📂configs
+ ┃ ┣ 📜model1.json
+ ┃ ┣ 📜model2-1.json
+ ┃ ┣ 📜model2.json
+ ┃ ┣ 📜model3.json
+ ┃ ┣ 📜model4-1.json
+ ┃ ┣ 📜model4-and-5.json
+ ┃ ┗ 📜model6.json
+ ┣ 📂debug_predict
+ ┣ 📂infer_res
+ ┃ ┣ 📂model1
+ ┃ ┃ ┣ 📜1000.png
+ ┃ ┃ ┣ 📜1001.png
+ ┃ ┃ ┣ ...
+ ┃ ┃ ┣ 📜3336.png
+ ┃ ┃ ┗ 📜3337.png
+ ┃ ┣ 📂model2
+ ┃ ┣ 📂model3
+ ┃ ┣ 📂model4
+ ┃ ┣ 📂model5
+ ┃ ┣ 📂model6
+ ┃ ┣ 📂final_mask
+ ┃ ┣ 📂submitted_mask
+ ┃ ┃ ┣ 📂model1_split
+ ┃ ┃ ┣ 📂model2_split
+ ┃ ┃ ┣ 📂model3_split
+ ┃ ┃ ┣ 📂model4_split
+ ┃ ┃ ┣ 📂model5_split
+ ┃ ┗ ┗ 📂model6_split
+ ┣ 📂wandb
+ ┣ 📜LICENSE
+ ┣ 📜README.md
+ ┣ 📜__init__.py
+ ┣ 📜data_pre.sh
+ ┣ 📜train.sh
+ ┣ 📜predict.sh
+ ┣ 📜data_processing.py
+ ┣ 📜predict.py
+ ┣ 📜train.py
+ ┗ 📜requirements.txt
